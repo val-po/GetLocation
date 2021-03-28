@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A3913D1B26111F7A0019B72B /* Simulator Screen Shot - iPhone 12 Pro - 2021-03-28 at 23.28.41.png in Resources */ = {isa = PBXBuildFile; fileRef = A3913D1926111F7A0019B72B /* Simulator Screen Shot - iPhone 12 Pro - 2021-03-28 at 23.28.41.png */; };
+		A3913D1C26111F7A0019B72B /* Simulator Screen Shot - iPhone 12 Pro - 2021-03-28 at 23.28.58.png in Resources */ = {isa = PBXBuildFile; fileRef = A3913D1A26111F7A0019B72B /* Simulator Screen Shot - iPhone 12 Pro - 2021-03-28 at 23.28.58.png */; };
 		A3E3A6FB26110EDC0054CE46 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3E3A6FA26110EDC0054CE46 /* AppDelegate.swift */; };
 		A3E3A6FD26110EDC0054CE46 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3E3A6FC26110EDC0054CE46 /* SceneDelegate.swift */; };
 		A3E3A6FF26110EDC0054CE46 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3E3A6FE26110EDC0054CE46 /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A3913D1926111F7A0019B72B /* Simulator Screen Shot - iPhone 12 Pro - 2021-03-28 at 23.28.41.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 12 Pro - 2021-03-28 at 23.28.41.png"; sourceTree = "<group>"; };
+		A3913D1A26111F7A0019B72B /* Simulator Screen Shot - iPhone 12 Pro - 2021-03-28 at 23.28.58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 12 Pro - 2021-03-28 at 23.28.58.png"; sourceTree = "<group>"; };
 		A3E3A6F726110EDC0054CE46 /* GetLocation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GetLocation.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3E3A6FA26110EDC0054CE46 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A3E3A6FC26110EDC0054CE46 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -37,6 +41,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		A3913D1826111F7A0019B72B /* Screenshots */ = {
+			isa = PBXGroup;
+			children = (
+				A3913D1926111F7A0019B72B /* Simulator Screen Shot - iPhone 12 Pro - 2021-03-28 at 23.28.41.png */,
+				A3913D1A26111F7A0019B72B /* Simulator Screen Shot - iPhone 12 Pro - 2021-03-28 at 23.28.58.png */,
+			);
+			path = Screenshots;
+			sourceTree = "<group>";
+		};
 		A3E3A6EE26110EDC0054CE46 = {
 			isa = PBXGroup;
 			children = (
@@ -63,6 +76,7 @@
 				A3E3A70326110EDE0054CE46 /* Assets.xcassets */,
 				A3E3A70526110EDE0054CE46 /* LaunchScreen.storyboard */,
 				A3E3A70826110EDE0054CE46 /* Info.plist */,
+				A3913D1826111F7A0019B72B /* Screenshots */,
 			);
 			path = GetLocation;
 			sourceTree = "<group>";
@@ -125,6 +139,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				A3E3A70726110EDE0054CE46 /* LaunchScreen.storyboard in Resources */,
+				A3913D1B26111F7A0019B72B /* Simulator Screen Shot - iPhone 12 Pro - 2021-03-28 at 23.28.41.png in Resources */,
+				A3913D1C26111F7A0019B72B /* Simulator Screen Shot - iPhone 12 Pro - 2021-03-28 at 23.28.58.png in Resources */,
 				A3E3A70426110EDE0054CE46 /* Assets.xcassets in Resources */,
 				A3E3A70226110EDC0054CE46 /* Main.storyboard in Resources */,
 			);
